@@ -18,7 +18,7 @@ body{
     /* background-color: red; */
     padding: 50px;
     position: relative;
-    width: 700px;
+    width: 500px;
     top: 120px;
     left: 200px;
     
@@ -28,7 +28,7 @@ h1{
     color: #fff;
     font-weight: 500;
     font-family: "DM Sans";
-    font-size: 3.5rem;
+    font-size: 3rem;
 }
 
 span{
